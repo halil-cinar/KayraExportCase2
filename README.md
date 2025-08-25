@@ -94,9 +94,6 @@ http://localhost:5000/swagger
 - Migration yönetimi
 - Global exception handling + logging
 
-## 📑 Versiyonlama ve Commit Politikası
-- Branch isimlendirme: `test/v1.0.0`
-- Geliştirme sürecinde günlük commit yapılması
 
 ---
 📌 **Not:** Bu proje yalnızca Kayra Export mülakat case çalışması için hazırlanmıştır.
